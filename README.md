@@ -13,6 +13,7 @@ As someone who considers music to be an important part of their life and someone
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/make-a-mark/dh140_project/HEAD)
 
 ### Look through this code in a blog!
+[Blog Post](https://make-a-mark.github.io/dh140_assignment9_blog/2022/03/14/Music_Science.html)
 
 ### Files
 1. Music Science.ipynb
